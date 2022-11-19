@@ -3,7 +3,7 @@ import java.awt.event.*;
 import java.awt.event.WindowEvent.*;    
 import java.awt.event.WindowListener.*; 
 class awt{    
-    //praneeth
+    
    awt() {  
   
       Frame f = new Frame();  
@@ -97,12 +97,12 @@ f.addWindowListener(new WindowAdapter()
 	}
 });
 
-  
-
+ 
 }    
 
 public static void main(String args[]) {   
 awt awt_obj = new awt();
 }  
   
-}    
+}
+Mango
